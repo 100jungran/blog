@@ -1,0 +1,4 @@
+baseURL = 'http://100jungran.github.io'
+languageCode = 'en-us'
+title = '100c_log'
+theme = "devise"
